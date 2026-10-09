@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-playwright-tests",
+  "version": "1.0.0",
+  "description": "Testes automatizados E2E e de API com Playwright + JavaScript para o portfólio marloncristo1985.github.io. Page Object, GitHub Actions e relatório HTML.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonCristo1985/portfolio-playwright-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonCristo1985/portfolio-playwright-tests/issues"
+  },
+  "homepage": "https://github.com/marlonCristo1985/portfolio-playwright-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
